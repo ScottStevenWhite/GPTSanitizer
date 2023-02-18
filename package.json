@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "synonyms": "^1.0.1",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/node": "^18.14.0",
+    "thesaurus": "^0.0.1"
+  }
+}
